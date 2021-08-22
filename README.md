@@ -14,7 +14,7 @@ An application that would encode or decode messages. There are three different e
 
 ## Challenge:
 
-**This project pushed me outside of my comfort zone and tested my ability to develop complex algorithms for the Caesar Shift, Polyibus Square, and Substitution Ciper. I was then able to apply my knowledge of unit testing with Mocha and Chai. I needed to write the necessary tests in order to test my algorithms. An additional requirement was to use the expect() method to test my code. 
+This project pushed me outside of my comfort zone and tested my ability to develop complex algorithms for the Caesar Shift, Polyibus Square, and Substitution Ciper. I was then able to apply my knowledge of unit testing with Mocha and Chai. I needed to write the necessary tests in order to test my algorithms. An additional requirement was to use the expect() method to test my code. 
 
 ## Technologies Used:
 
