@@ -1,12 +1,23 @@
-# Project: Decoder Ring 
+  
+# Decoder_Ring_Thinkful
 
-## Project description: Decoder ring
 
-You're planning a surprise birthday party for a friend who loves escape rooms and puzzles. What better way to practice your new coding skills than to build an application that will help you encode and decode all kinds of fun messages?
+## Basic Functionality:
+An application that would encode or decode messages. There are three different encoder/decoder options.
 
-## Learning objectives
+1.  Caesar Cypher: Will move however many letters you specify. If encode is true, it will encode the message. Ex: "random", with 3, encode = true: "udqgrp". If encode is false, it will decode the message. Ex: "udqgrp" with -3, encode = false: "random".
+    
+2.  Substitution: Allows user to make their own alphabet to substitute the regular alphabet. Ex: "QWERTYUIOPASDFGHJKLZXCVBNM" would replace "ABCDEFGHIJKLMNOPQRSTUVWXYZ".
+    
+3.  Polybius: Allows user to encode using a polybius square. Look up polybius for more information.
 
-This project is designed to test your ability to build complex algorithms. It will also test your ability to write unit tests with Mocha and Chai to test your algorithms. You will not need to make any edits to HTML or CSS for this project. Before taking on this project, you should be comfortable with the learning objectives listed below:
 
--   Writing a series of unit tests using Mocha and Chai
--   Using different  `expect()`  methods to test your code
+## Challenge:
+
+**This project pushed me outside of my comfort zone and tested my ability to develop complex algorithms for the Caesar Shift, Polyibus Square, and Substitution Ciper. I was then able to apply my knowledge of unit testing with Mocha and Chai. I needed to write the necessary tests in order to test my algorithms. An additional requirement was to use the expect() method to test my code. 
+
+## Technologies Used:
+
+-   [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-   [Mocha](https://https://mochajs.org/)
+-   [Chai](https://https://www.chaijs.com/)
